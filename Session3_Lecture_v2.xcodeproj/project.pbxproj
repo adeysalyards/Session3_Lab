@@ -14,6 +14,7 @@
 		A090CF791BF540B50070EB43 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A090CF771BF540B50070EB43 /* LaunchScreen.storyboard */; };
 		A090CF841BF540B50070EB43 /* Session3_Lecture_v2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A090CF831BF540B50070EB43 /* Session3_Lecture_v2Tests.swift */; };
 		A090CF8F1BF540B50070EB43 /* Session3_Lecture_v2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A090CF8E1BF540B50070EB43 /* Session3_Lecture_v2UITests.swift */; };
+		A090CF9D1BF555460070EB43 /* CanvasViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A090CF9C1BF555460070EB43 /* CanvasViewController.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		A090CF8A1BF540B50070EB43 /* Session3_Lecture_v2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Session3_Lecture_v2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A090CF8E1BF540B50070EB43 /* Session3_Lecture_v2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Session3_Lecture_v2UITests.swift; sourceTree = "<group>"; };
 		A090CF901BF540B50070EB43 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A090CF9C1BF555460070EB43 /* CanvasViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CanvasViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				A090CF6E1BF540B50070EB43 /* AppDelegate.swift */,
 				A090CF701BF540B50070EB43 /* ViewController.swift */,
 				A090CF721BF540B50070EB43 /* Main.storyboard */,
+				A090CF9C1BF555460070EB43 /* CanvasViewController.swift */,
 				A090CF751BF540B50070EB43 /* Assets.xcassets */,
 				A090CF771BF540B50070EB43 /* LaunchScreen.storyboard */,
 				A090CF7A1BF540B50070EB43 /* Info.plist */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A090CF711BF540B50070EB43 /* ViewController.swift in Sources */,
+				A090CF9D1BF555460070EB43 /* CanvasViewController.swift in Sources */,
 				A090CF6F1BF540B50070EB43 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
